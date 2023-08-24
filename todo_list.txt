@@ -1,0 +1,6 @@
+1. 让所有的按钮functionalized
+2. 整理并且deploy projects
+3. 添加相应的文字和图片
+4. deploy personal website
+
+text:
